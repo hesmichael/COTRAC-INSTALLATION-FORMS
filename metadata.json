@@ -1,0 +1,7 @@
+{
+  "name": "Cotrac Telematics - Client Onboarding",
+  "description": "Professional digital intake system for Cotrac Nigeria telematics services, featuring dynamic fleet data capture and service agreement signing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
